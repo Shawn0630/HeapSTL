@@ -1,5 +1,4 @@
 // Unittests using Google C++ testing framework.
-//
 
 #include <vector>
 #include <iterator>
