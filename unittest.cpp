@@ -1,6 +1,5 @@
 // Unittests using Google C++ testing framework.
 //
-// Author: Alyssa Quek
 
 #include <vector>
 #include <iterator>
